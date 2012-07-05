@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+
+.Main-Content-wrapper{
+	-webkit-box-shadow:  .2px .5px 2px 1px #000000;
+	box-shadow:  .2px .5px 2px 1px #000000;
+}
+
